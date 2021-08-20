@@ -1,0 +1,14 @@
+{
+  "name": "bot-entradas-bianca",
+  "version": "1.0.0",
+  "description": "Bot para saber cuando se habilitan las entradas para el show de Bianca del Río",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Risaro",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
